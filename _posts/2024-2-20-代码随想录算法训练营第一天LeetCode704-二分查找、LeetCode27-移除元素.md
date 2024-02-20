@@ -10,7 +10,7 @@ tags:
     - Coding
 ---
 
-# LeetCode704 二分查找
+## LeetCode704 二分查找
 
 > 题目链接：https://leetcode.cn/problems/binary-search/
 >
@@ -37,7 +37,7 @@ class Solution(object):
 
 后来想起题目是二分查找，看了视频教程之后再改了一下：
 
-## 左闭右闭区间
+### 左闭右闭区间
 
 ```python
 class Solution(object):
@@ -61,7 +61,7 @@ class Solution(object):
         return -1
 ```
 
-## 左闭右开区间
+### 左闭右开区间
 
 ```python
 class Solution(object):
@@ -91,7 +91,7 @@ class Solution(object):
 
 
 
-# LeetCode27 移除元素
+## LeetCode27 移除元素
 
 > 题目链接：https://leetcode.cn/problems/remove-element/ 
 >
@@ -119,7 +119,7 @@ class Solution(object):
 
 > Python list列表删除元素（4种方法）https://blog.csdn.net/yelitoudu/article/details/117952380
 
-## 双指针法
+### 双指针法
 
 ⭐快指针寻找新数组里需要的元素（即删除目标值后的元素）
 
