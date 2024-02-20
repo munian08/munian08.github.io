@@ -1,6 +1,6 @@
 ---
 layout:     post   				    
-title:      代码随想录算法训练营第一天|LeetCode704 二分查找、LeetCode27 移除元素
+title:      代码随想录算法训练营第一天 | LeetCode704 二分查找、LeetCode27 移除元素
 subtitle:   
 date:       2024-2-20				
 author:     慕念 						
