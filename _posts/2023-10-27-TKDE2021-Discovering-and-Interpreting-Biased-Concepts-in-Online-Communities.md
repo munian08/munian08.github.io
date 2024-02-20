@@ -4,7 +4,7 @@ title:      TKDE2021-Discovering and Interpreting Biased Concepts in Online Comm
 subtitle:   
 date:       2023-10-27 				
 author:     慕念 						
-header-img: img/seed_labs_b.png	
+header-img: img/paper.jpg
 catalog: true 						
 tags:								
     - PaperReading
