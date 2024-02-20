@@ -2,7 +2,7 @@
 layout:     post   				    
 title:      代码随想录算法训练营Day1 | LeetCode704 二分查找、LeetCode27 移除元素
 subtitle:   
-date:       2024-2-20				
+date:       2024-2-21				
 author:     慕念 						
 header-img: img/coding.jpg
 catalog: true 						
