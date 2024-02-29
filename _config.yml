@@ -2,7 +2,7 @@
 title: Munian's Blog
 SEOTitle: 慕念 | Munian's Blog
 header-img: img/post-bg-desk.jpg
-email: 19307130276@fudan.edu.cn
+email: 1716656806@qq.com
 description: "我有明月与酒，不见人间白头。"
 keyword: "munian, Munian's Blog, 慕念"
 url: "https://munian08.github.io/"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/munian08/munian08.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "把酒祝东风，且祝山河与共的从容\n图床是在github上搭建的，图片加载不出来的话可以挂个梯子"
+sidebar-about-description: "把酒祝东风，且祝山河与共的从容\n前期图床在github上搭建，图片加载不出来的话可以挂个梯子"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
